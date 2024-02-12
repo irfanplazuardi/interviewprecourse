@@ -2,3 +2,4 @@ Hello World
 Hello World dari github
 Hello World di local
 prakterk git stash
+git fetch
